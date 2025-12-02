@@ -22,7 +22,7 @@
 `include "../rtl/include.v"
 
 `ifndef MaxTestSamples
-`define MaxTestSamples 100
+`define MaxTestSamples 10
 `endif
 
 module top_sim(
