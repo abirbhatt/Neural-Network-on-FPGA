@@ -1,5 +1,14 @@
-.DS_Store
+# Build artifacts
+build/
 *.vvp
 *.vcd
-*.vvp
 *.log
+
+# Editor files
+*.swp
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
